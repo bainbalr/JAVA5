@@ -7,7 +7,7 @@ package javaapplication5;
 //BALraj SINgh BAins
 /**
  *
- * @author User
+ * @author User bains
  */
 public class JavaApplication5 {
 
